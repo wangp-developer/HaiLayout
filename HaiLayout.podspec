@@ -18,10 +18,11 @@ s.version      = "0.0.1"
 s.summary      = "HaiLayout summary”
 
 # 设置详情
-s.description  = "HaiLayout for des"
+s.description  = <<-DESC
+DESC
 
 # 设置仓库主页
-s.homepage     = "https://github.com/diankuanghuolong/HaiLayout.git"
+s.homepage     = "https://github.com/diankuanghuolong/HaiLayout"
 
 # 设置许可证(此处许可和你在github或其他代码管理平台创建项目的许可一致)
 s.license      =  { :type => "MIT", :file => "FILE_LICENSE" }
