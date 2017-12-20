@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 s.name         =  "HaiLayout"
 
 # 设置版本号
-s.version      = "0.0.2"
+s.version      = "0.0.1"
 
 # 设置摘要
 s.summary      = "HaiLayout summary."
