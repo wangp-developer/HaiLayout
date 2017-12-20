@@ -15,7 +15,7 @@ s.name         =  "HaiLayout"
 s.version      = "0.0.2"
 
 # 设置摘要
-s.summary      = "HaiLayout summary.”
+s.summary      = "HaiLayout summary."
 
 # 设置详情
 s.description  = "layout for views"
