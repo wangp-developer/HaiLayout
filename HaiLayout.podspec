@@ -15,10 +15,10 @@ s.name         =  "HaiLayout"
 s.version      = "0.0.1"
 
 # 设置摘要
-s.summary      = "HaiLayout summary”
+s.summary      = "HaiLayout summary.”
 
 # 设置详情
-#s.description  = ""
+s.description  = "layout for views"
 
 # 设置仓库主页
 s.homepage     = "https://github.com/diankuanghuolong/HaiLayout"
