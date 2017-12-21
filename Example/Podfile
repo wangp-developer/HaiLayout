@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HaiLayoutPod_Example' do
+  pod 'HaiLayoutPod', :path => '../'
+
+  target 'HaiLayoutPod_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
