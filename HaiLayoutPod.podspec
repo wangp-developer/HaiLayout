@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 #=====  名称、版本号、摘要=====
 s.name             = 'HaiLayoutPod'
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = 'summary HaiLayoutPod.'
 #===== 详情  =====
 s.description      = <<-DESC
