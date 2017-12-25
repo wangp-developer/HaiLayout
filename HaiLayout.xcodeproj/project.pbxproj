@@ -14,7 +14,6 @@
 		B6F9AFE11FEA40600016E546 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6F9AFDF1FEA40600016E546 /* LaunchScreen.storyboard */; };
 		B6F9AFE41FEA40600016E546 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B6F9AFE31FEA40600016E546 /* main.m */; };
 		B6F9AFED1FEA40820016E546 /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = B6F9AFEC1FEA40820016E546 /* UIViewExt.m */; };
-		B6F9AFF01FEA517C0016E546 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = B6F9AFEF1FEA517C0016E546 /* MyView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +29,6 @@
 		B6F9AFE31FEA40600016E546 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B6F9AFEB1FEA40820016E546 /* UIViewExt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewExt.h; sourceTree = "<group>"; };
 		B6F9AFEC1FEA40820016E546 /* UIViewExt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
-		B6F9AFEE1FEA517C0016E546 /* MyView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
-		B6F9AFEF1FEA517C0016E546 /* MyView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,8 +80,6 @@
 			children = (
 				B6F9AFEB1FEA40820016E546 /* UIViewExt.h */,
 				B6F9AFEC1FEA40820016E546 /* UIViewExt.m */,
-				B6F9AFEE1FEA517C0016E546 /* MyView.h */,
-				B6F9AFEF1FEA517C0016E546 /* MyView.m */,
 			);
 			path = excetion;
 			sourceTree = "<group>";
@@ -164,7 +159,6 @@
 				B6F9AFD91FEA40600016E546 /* ViewController.m in Sources */,
 				B6F9AFE41FEA40600016E546 /* main.m in Sources */,
 				B6F9AFD61FEA40600016E546 /* AppDelegate.m in Sources */,
-				B6F9AFF01FEA517C0016E546 /* MyView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
