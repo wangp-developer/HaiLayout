@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad
 {
+    //wangp
     [super viewDidLoad];
     self.title = @"HaiLayout";
     self.view.backgroundColor = [UIColor whiteColor];
